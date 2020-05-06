@@ -7,6 +7,7 @@ Telegram Bot designed to keep track of bird activity in PLAB
 1. Telegram bot token
 2. Google sheet (see format from excel file)
 3. Google script
+4. Git good
 
 # Important Notes
 
