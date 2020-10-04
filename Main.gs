@@ -1,7 +1,7 @@
 // This script only runs on RhinoRuntime. DO NOT run on V8 Run time
 // Run --> Enable App script runtime powered by Rhino
 
-var token = "977278898:AAG31w4hnGjVnstLN6xBXS-PMsaeaIfZabc";
+var token = // insert token here;
 var url = "https://api.telegram.org/bot" + token;
 var webAppUrl = "https://script.google.com/macros/s/AKfycbxjkARIoce9ak9b5Yym3VERQKLn547qHyz9z3psEBY1xUs_e0ep/exec";
 var ssID = "1HCbfI-lyNyqjmKyUpUvw4ewN26x7pV0cgKSjNVcJvCA"
