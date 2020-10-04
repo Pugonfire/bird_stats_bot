@@ -4,7 +4,7 @@
 var token = // insert token here;
 var url = "https://api.telegram.org/bot" + token;
 var webAppUrl = "https://script.google.com/macros/s/AKfycbxjkARIoce9ak9b5Yym3VERQKLn547qHyz9z3psEBY1xUs_e0ep/exec";
-var ssID = "1HCbfI-lyNyqjmKyUpUvw4ewN26x7pV0cgKSjNVcJvCA"
+var ssID = // insert google spreadsheet ID here
 
 function getMe() {
   var response = UrlFetchApp.fetch(url + "/getMe");
